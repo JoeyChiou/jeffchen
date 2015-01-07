@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="Config1"
+        activity="com.example.laser.MainActivity"
+        config="layout-sw320dp-w533dp-h320dp-normal-long-land-notnight-hdpi-finger-keyssoft-nokeys-navexposed-trackball-800x480-v18"
+        device="3.7in WVGA (Nexus One)"
+        devicestate="Landscape"
+        target="Android 4.3"
+        theme="@style/AppTheme" >
+    </preview>
+
+</previews>
